@@ -48,5 +48,4 @@ Pull requests are welcome for improvements, optimizations, or adding more proble
 ⭐ If you found it helpful, don’t forget to star the repo!
 
 
-Let me know if you'd like badges, emojis, or code snippets added to each problem explanation—or if you want this auto-generated and committed for you!
 
